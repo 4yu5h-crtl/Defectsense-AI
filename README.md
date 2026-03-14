@@ -10,13 +10,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<p align="center">
-  <img src="media/1.png" alt="DefectSense-AI Dashboard" width="100%"/>
-  <br/>
-  <em>DefectSense-AI Dashboard — Sensor Overview</em>
-</p>
----
-
 ## 📋 Table of Contents
 
 - [What is DefectSense-AI?](#-what-is-defectsense-ai)
