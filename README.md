@@ -653,11 +653,3 @@ python -m pytest tests/ --cov=src --cov-report=term-missing
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-<div align="center">
-
-**Built with ❤️ for smarter manufacturing**
-
-*DefectSense-AI — Because every defect has a story, and AI can tell it.*
-
-</div>
